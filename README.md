@@ -16,7 +16,7 @@ Overall, this contract defines a basic ERC20 token with controlled minting, user
 
 ### Installing
 
-To download the code, you can visit the following file path:- https://github.com/chakshit2004h/ETH_Intermidate_Module3/blob/main/MintToken.sol
+To download the code, you can visit the following file path:- https://github.com/reeva2004/ETH_Intermidate_Module3/blob/main/MintToken.sol
 
 ### Executing program
 
